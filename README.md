@@ -20,3 +20,5 @@ The model was serialized using Pickle, allowing real-time prediction without ret
       Pandas / NumPy  
       Pickle
       Streamlit
+
+Live link:-https://diabetes-prediction-system-g8gcl7tkhviecyjidyccvx.streamlit.app/
